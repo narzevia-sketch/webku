@@ -1,4 +1,16 @@
 body
 { 
- background-color:Maroon;
+ background-color:#8D021F;
+ color:#333;
+ widht:100%;
+ font-familiy:sans-serif;
+ margin:0 auto;
+}
+
+.header{
+  widht:90%;
+  margin:auto;
+  height:120px;
+  background:FDEFB2;
+  color:#ff;
 }
