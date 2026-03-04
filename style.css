@@ -44,7 +44,17 @@ body{
     background-color#4b88bb;
     display:block;
 }
+
+.content{
+    width:90%;
+    margin:auto;
+    height:420px;
+    padding:0.1px;
+    background:#fff;
+    color:#333;
+}
     
+
 
 
 
